@@ -1,0 +1,17 @@
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\bin\Debug\net10.0-windows\SectionB_1.2.exe
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\bin\Debug\net10.0-windows\SectionB_1.2.deps.json
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\bin\Debug\net10.0-windows\SectionB_1.2.runtimeconfig.json
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\bin\Debug\net10.0-windows\SectionB_1.2.dll
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\bin\Debug\net10.0-windows\SectionB_1.2.pdb
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1._2.Form1.resources
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.csproj.GenerateResource.cache
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.AssemblyInfoInputs.cache
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.AssemblyInfo.cs
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.csproj.CoreCompileInputs.cache
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.sourcelink.json
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.dll
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\refint\SectionB_1.2.dll
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.pdb
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\SectionB_1.2.genruntimeconfig.cache
+C:\Users\rhyno\Desktop\RhynoBothaSDT612-SA\SectionB\SectionB_1.2\SectionB_1.2\obj\Debug\net10.0-windows\ref\SectionB_1.2.dll
